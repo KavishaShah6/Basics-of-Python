@@ -16,7 +16,7 @@ env/
 .ipynb_checkpoints/
 
 # OS-specific files
-.DS_Store  # macOS
+
 Thumbs.db  # Windows
 
 # Environment variable files
